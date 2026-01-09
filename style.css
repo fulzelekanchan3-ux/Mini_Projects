@@ -1,0 +1,156 @@
+body {
+  margin: 0;
+  font-family: Arial;
+}
+
+main{
+    height: 100%;
+    width: 100%;
+
+}
+
+nav {
+  background: #000;
+  color: white;
+  padding: 15px;
+  display: flex;
+  justify-content: space-between;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+}
+
+nav ul li {
+  margin-left: 15px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+}
+
+.hero {
+  background: linear-gradient(to right, #111, #333);
+  color: white;
+  padding: 100px;
+  text-align: center;
+}
+
+.btn {
+  background: orange;
+  padding: 10px 20px;
+  text-decoration: none;
+  color: black;
+  border-radius: 5px;
+}
+
+.features {
+    margin-top: 3%;
+  display: flex;
+  justify-content: center;
+  padding: 40px;
+}
+
+.card {
+  background: #f2f2f2;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 8px;
+}
+
+.content {
+  padding: 40px;
+}
+
+footer {
+  margin-top: 1.7%;
+  text-align: center;
+  background: #000;
+  color: white;
+  padding: 10px;
+}
+
+#b1{
+  background: #000;
+  color: white;
+  padding: 15px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.content{
+
+  justify-content: center;
+  display: flex;
+  
+}
+
+#card1{
+
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  height: 350px;
+  width: 270px;
+  border: 2px solid black;
+  border-radius: 3%;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4);
+  margin-top: 4%;
+}
+
+#card1 p{
+  margin-right: 20%;
+  margin-left: 25%;
+}
+
+#card2{
+  margin-left: 5%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  height: 350px;
+  width: 270px;
+  border: 2px solid black;
+  border-radius: 3%;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4);
+  margin-top: 4%;
+}
+
+#card2 p{
+  margin-right: 20%;
+  margin-left: 25%;
+}
+
+#card3{
+  margin-left: 5%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  height: 350px;
+  width: 270px;
+  border: 2px solid black;
+  border-radius: 3%;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4);
+  margin-top: 4%;
+}
+
+#card3 p{
+  margin-right: 20%;
+  margin-left: 25%;
+}
+
+.content1{
+  margin-top: 2%;
+  display: flex;
+}
+
+.content2{
+  margin-top: 4%;
+ margin-left: 40%;
+}
+
