@@ -13,7 +13,7 @@ This is a responsive HTML, CSS, and JavaScript website project that I am current
 🚧 Work in Progress
 
 ## Live Demo
-https://your-username.github.io/my-html-project/
+https://fulzelekanchan3-ux.github.io/BrandBoost_Web/
 
 ## Author
 Kanchan Fulzele
